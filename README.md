@@ -1,2 +1,2 @@
 # ITtools.1
-example of 
+example of repository for testing training purposes
